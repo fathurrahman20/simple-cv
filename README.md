@@ -5,9 +5,12 @@ This project was created as an assignment for **Week 1** of the **Sinau Koding B
 
 ## 📂 Project Structure
 
-├── index.html # Main CV page
-├── style.css # Styling for the CV
-└── script.js # JavaScript for interactivity
+```
+.
+├── index.html   # Main CV page
+├── style.css    # Styling for the CV
+└── script.js    # JavaScript for interactivity
+```
 
 ## 📸 Preview
 
@@ -24,7 +27,7 @@ This project was created as an assignment for **Week 1** of the **Sinau Koding B
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/fathurrahman20/simple-cv
+   git clone https://github.com/fathurrahman20/simple-cv.git
    ```
 
 2. Open `index.html` in your browser.
